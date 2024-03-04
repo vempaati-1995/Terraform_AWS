@@ -3,4 +3,3 @@ provider "aws" {
 }
 
 
-This is plugin for aws to connect with terraform.
